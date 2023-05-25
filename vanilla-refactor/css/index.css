@@ -217,6 +217,7 @@ footer a {
 /* Modal styles - opens when game finishes  */
 
 .modal {
+  margin-left: 10em;
   display: flex;
   justify-content: center;
   align-items: center;
